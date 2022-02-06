@@ -26,6 +26,11 @@ Projeto idealizado pela instituição IGTI no curso de pós-gradução. O intuit
 - [Live Server](https://www.npmjs.com/package/live-server)
 - [MDN - JavaScrip](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+> APIs e rota usadas no projetos
+
+- [Make UP](https://makeup-api.herokuapp.com/)
+- [Rota Produtos](http://makeup-api.herokuapp.com/api/v1/products.json)
+
 ---
 
 ## Instalação
