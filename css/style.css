@@ -40,7 +40,7 @@ main {
   animation: loading-page 2s;
 }
 
-#catalog {
+.catalog {
   padding: 1rem;
   display: grid;
   grid-gap: 3rem 2rem;
